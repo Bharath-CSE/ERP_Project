@@ -1,0 +1,48 @@
+/* OrdersCalendarView.css */
+
+.orders-calendar-view-container {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+  }
+  
+  .orders-calendar-view-container h2 {
+    color: #333;
+  }
+  
+  .selected-date-orders {
+    margin-top: 20px;
+  }
+  
+  .selected-date-orders h3 {
+    color: #333;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .selected-date-orders ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .selected-date-orders ul li {
+    margin-bottom: 5px;
+  }
+  
+  /* Mobile Styles */
+  @media only screen and (max-width: 600px) {
+    .orders-calendar-view-container {
+      padding: 10px;
+    }
+  
+    .orders-calendar-view-container h2 {
+      font-size: 1.2em;
+    }
+  
+    .selected-date-orders h3 {
+      font-size: 1em;
+    }
+  }
+  
