@@ -28,11 +28,11 @@ This front-end application provides a dashboard for managing products and orders
 
 ## Screenshots
 
-![1](https://github.com/Bharath-CSE/ERP_Project/assets/83781481/273449b4-55f9-49da-ab5e-2acfe5b27f7c)
+![1](https://github.com/Bharath-CSE/ERP_Project/assets/83781481/a229d606-f16d-4f50-98ee-dab33bb2d214)
 
-![2](https://github.com/Bharath-CSE/ERP_Project/assets/83781481/174d0b43-b3c1-4a31-af0b-9610d34b5a6c)
+![2](https://github.com/Bharath-CSE/ERP_Project/assets/83781481/ef3ea475-e08a-41fb-be17-cba77b889ac9)
 
-![3](https://github.com/Bharath-CSE/ERP_Project/assets/83781481/fe50e295-d89f-46d2-8af0-dfe7af0b8f75)
+![3](https://github.com/Bharath-CSE/ERP_Project/assets/83781481/a0f96f7f-f1e7-436a-bca8-a8b9b9cb00f1)
 
 ## Project Link
 
